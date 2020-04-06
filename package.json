@@ -1,6 +1,8 @@
 {
     "name": "hello-node",
     "description": "Hello World NodeJs App",
-    "main": "server.js"
+    "main": "server.js",
+    "dependencies": {
+        "mocha": "^7.1.1"
+    }
 }
-
